@@ -1,0 +1,15 @@
+java:
+  AllowedWorlds:
+    - world1
+    - world2
+  JoinWorld: world1
+  KickWorld: world2
+  KickMessage: ''
+    
+bedrock:
+  AllowedWorlds:
+    - world3
+    - world4
+  JoinWorld: world3
+  KickWorld: world4
+  KickMessage: ''

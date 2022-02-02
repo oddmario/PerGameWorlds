@@ -1,0 +1,10 @@
+name: PerGameWorlds
+author: Mario <3#3897
+main: me.mariodev.pergameworlds.PerGameWorlds
+version: 1.0
+api-version: 1.16
+commands:
+  pgwreload:
+    description: Reload the PerGameWorlds configuration file
+    usage: /pgwreload
+    permission: pergameworlds.reload
